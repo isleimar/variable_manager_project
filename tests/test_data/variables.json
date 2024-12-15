@@ -1,0 +1,4 @@
+[
+    {"name": "user_name", "description": "User's name", "value_type": "text", "value": "John"},
+    {"name": "age", "description": "User's age", "value_type": "integer", "value": null}
+]

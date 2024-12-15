@@ -17,7 +17,7 @@
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/isleimar/variable_manager_project
 cd variable_manager_project
 pip install -r requirements.txt
 ```

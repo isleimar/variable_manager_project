@@ -1,0 +1,3 @@
+name,description,value_type,value
+username,User's name,text,Jhon
+age,User's age,integer,
