@@ -1,4 +1,6 @@
+import sys
 import unittest
+from unittest.mock import patch
 from variable_manager.core import Variable, VariableManager
 from variable_manager.importers import EnvVariableImporter, JsonVariableImporter, CsvVariableImporter, ArgvVariableImporter
 from variable_manager.handlers import PromptInputHandler, AlwaysPromptInputHandler
